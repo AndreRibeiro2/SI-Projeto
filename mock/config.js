@@ -69,6 +69,13 @@ const products = [
     category: 'Acessórios',
     image: '../../images/relog m/Relogio masc 1.jpeg',
   },
+  {
+    name: 'Short',
+    price: 99.99,
+    description: 'Descrição',
+    category: 'Feminino',
+    image: '../../images/short f/short fem 1.jpg',
+  }
 ];
 
 const menuItens = [
