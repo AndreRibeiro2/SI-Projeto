@@ -69,13 +69,6 @@ const products = [
     category: 'Acessórios',
     image: '../../images/relog m/Relogio masc 1.jpeg',
   },
-  {
-    name: '',
-    price:,
-    description: '',
-    category: '',
-    image: '',
-  },
 ];
 
 const menuItens = [
