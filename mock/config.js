@@ -36,25 +36,46 @@ const products = [
   },
   {
     name: 'Boné Masculino',
-    price: 20.00,
+    price: 29.99,
     description: 'Descrição',
     category: 'Acessórios',
     image: '../../images/bone m/bone 1.jpg',
   },
   {
-    name: '',
-    price: '',
+    name: 'Carteira Masculina',
+    price: 49.99,
     description: 'Descrição',
-    category: '',
-    image: '',
+    category: 'Acessórios',
+    image: '../../images/carteira m/carteira masc 1.jpg',
+  },
+  {
+    name: 'Carteira Feminina',
+    price: 49.99,
+    description: 'Descrição',
+    category: 'Acessórios',
+    image: '../../images/carteira f/carteira fem 2.jpg',
+  },
+  {
+    name: 'Carteira Feminina',
+    price: 49.99,
+    description: 'Descrição',
+    category: 'Acessórios',
+    image: '../../images/carteira f/carteira fem 3.jpg',
+  },
+  {
+    name:'Relógio Mascuçino',
+    price: 59.99,
+    description: 'Descrição',
+    category: 'Acessórios',
+    image: '../../images/relog m/Relogio masc 1.jpeg',
   },
   {
     name: '',
-    price: '',
-    description: 'Descrição',
+    price:,
+    description: '',
     category: '',
     image: '',
-  }
+  },
 ];
 
 const menuItens = [
